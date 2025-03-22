@@ -82,3 +82,9 @@ body {
 	height: 100%;
 }
 
+#status-bar {
+	input {
+		color: white;
+		background-color: transparent;
+	}
+}

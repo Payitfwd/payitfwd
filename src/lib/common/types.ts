@@ -7,6 +7,7 @@ type Problem = {
 	title: string;
 	difficulty: Difficulty;
 	tags: string[];
+	topic: string;
 };
 
 export { type Problem, type Difficulty };
